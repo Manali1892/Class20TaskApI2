@@ -1,0 +1,36 @@
+body{
+    background-image:url("em1.jpg");
+    background-size: cover;
+}
+.container{
+    text-align:center;
+    margin-top: 50px;
+    margin-left: 400px;
+    box-sizing: border-box;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: rgb(223, 238, 20);
+    text-shadow: 20px;
+    text-decoration: solid;
+    font-size:50px;
+    border:3px solid rgb(54, 161, 129);
+    background-color: rgb(214, 33, 139);
+   
+}
+
+input{
+    color:black
+    padding-right:50px;
+    height:30px;
+    width:300px;
+    border:3px solid black;
+}
+button{
+    text-align:center;
+   height:50px;
+    width:100px;
+    margin-top: 2px;
+    margin-bottom:2px;
+}
